@@ -122,7 +122,7 @@ Sagar rolled a 3 and moved from 97 to 100
 Sagar wins the game
 ```
 
-![snake-and-ladder](./snl.gif)
+![snake-and-ladder](./game.gif)
 
 ## Expectations
 - Make sure that you have a working and demonstrable code
